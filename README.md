@@ -62,17 +62,6 @@ class LorraineSantana:
 
 ---
 
-### `> git stats`
-
-<div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lorraine-Santana&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF0080&icon_color=FF0080&text_color=ffffff&cache_seconds=1800"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorraine-Santana&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF0080&text_color=ffffff&cache_seconds=1800"/>
-
-</div>
-
----
-
 ### `> activity graph`
 
 <div align="center">
