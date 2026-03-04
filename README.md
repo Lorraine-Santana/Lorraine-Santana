@@ -1,18 +1,22 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Lorraine%20Santana&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=55&desc=Data%20Analyst%20%7C%20FP%26A%20%7C%20BI%20Developer&descAlignY=75&descSize=20&descColor=adbac7" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,60:2a0018,100:FF0080&height=260&section=header&text=Lorraine%20Santana&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Data%20Analyst%20%7C%20FP%26A%20%7C%20Financial%20Modeling&descAlignY=70&descSize=18&descColor=FFB3D1" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Connecting+numbers+to+strategy.;Economics+%40+UFJF;Data+Analysis+%7C+FP%26A+%7C+Financial+Modeling;Turning+raw+data+into+clear+decisions.)](https://git.io/typing-svg)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Lorraine-Santana&style=flat-square&color=58A6FF&label=PROFILE+VIEWS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=FF0080&center=true&vCenter=true&width=620&lines=Connecting+numbers+to+strategy.;Economics+%40+UFJF;Data+Analysis+%7C+FP%26A+%7C+Financial+Modeling;Business+Intelligence+%7C+Data+Visualization.)](https://git.io/typing-svg)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Lorraine-Santana&style=flat-square&color=FF0080&label=PROFILE+VIEWS)
 
 </div>
 
+<br/>
+
 ---
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/mikonoid/mikonoid/main/images/gifs/coder3.gif"/>
-
-### `> initialize profile`
+### `> whoami`
 
 ```python
 class LorraineSantana:
@@ -32,39 +36,42 @@ class LorraineSantana:
         return "Transforming data into decisions."
 ```
 
-<br clear="right"/>
-
 ---
 
-### `> load skills`
+### `> stack`
 
 <div align="center">
 
 **Languages & Query**
 
-[![My Skills](https://skillicons.dev/icons?i=python,js,mysql&theme=dark)](https://skillicons.dev)
+![Python](https://img.shields.io/badge/Python-0d0d0d?style=for-the-badge&logo=python&logoColor=FF0080)
+![SQL](https://img.shields.io/badge/SQL-0d0d0d?style=for-the-badge&logo=postgresql&logoColor=FF0080)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d0d0d?style=for-the-badge&logo=javascript&logoColor=FF0080)
+![VBA](https://img.shields.io/badge/VBA-0d0d0d?style=for-the-badge&logo=microsoftexcel&logoColor=FF0080)
 
-**Tools & Platforms**
+**BI & Visualization**
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,git,github&theme=dark)](https://skillicons.dev)
+![Power BI](https://img.shields.io/badge/Power%20BI-0d0d0d?style=for-the-badge&logo=powerbi&logoColor=FF0080)
+![Tableau](https://img.shields.io/badge/Tableau-0d0d0d?style=for-the-badge&logo=tableau&logoColor=FF0080)
+![Excel](https://img.shields.io/badge/Excel-0d0d0d?style=for-the-badge&logo=microsoftexcel&logoColor=FF0080)
 
-**BI & Analytics Stack**
+**Libraries & Tools**
 
-![Power BI](https://img.shields.io/badge/Power%20BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Tableau](https://img.shields.io/badge/Tableau-0d1117?style=for-the-badge&logo=tableau&logoColor=E97627)
-![Excel](https://img.shields.io/badge/Excel-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![VBA](https://img.shields.io/badge/VBA-0d1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![Pandas](https://img.shields.io/badge/Pandas-0d0d0d?style=for-the-badge&logo=pandas&logoColor=FF0080)
+![NumPy](https://img.shields.io/badge/NumPy-0d0d0d?style=for-the-badge&logo=numpy&logoColor=FF0080)
+![Git](https://img.shields.io/badge/Git-0d0d0d?style=for-the-badge&logo=git&logoColor=FF0080)
+![VS Code](https://img.shields.io/badge/VS%20Code-0d0d0d?style=for-the-badge&logo=visualstudiocode&logoColor=FF0080)
 
 </div>
 
 ---
 
-### `> git stats --full`
+### `> git stats`
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lorraine-Santana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorraine-Santana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Lorraine-Santana&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=FF0080&icon_color=FF0080&text_color=ffffff&cache_seconds=1800"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorraine-Santana&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=FF0080&text_color=ffffff&cache_seconds=1800"/>
 
 </div>
 
@@ -74,47 +81,37 @@ class LorraineSantana:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lorraine-Santana&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Lorraine-Santana&bg_color=0d0d0d&color=FF0080&line=FF0080&point=ffffff&area_color=FF0080&area=true&hide_border=true"/>
 
 </div>
 
 ---
 
-### `> trophy --showcase`
+### `> streak`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Lorraine-Santana&theme=darkhub&no-frame=true&column=6&margin-w=10"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lorraine-Santana&hide_border=true&background=0d0d0d&ring=FF0080&fire=FF0080&currStreakLabel=FF0080&sideLabels=FF0080&dates=adbac7&sideNums=ffffff&currStreakNum=ffffff"/>
 
 </div>
 
 ---
 
-### `> streak --live`
+### `> connect`
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Lorraine-Santana&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=for-the-badge&logo=linkedin&logoColor=FF0080)](https://www.linkedin.com/in/lorraine-santana)
+[![Gmail](https://img.shields.io/badge/Gmail-0d0d0d?style=for-the-badge&logo=gmail&logoColor=FF0080)](mailto:lorrainesantana126@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=for-the-badge&logo=github&logoColor=FF0080)](https://github.com/Lorraine-Santana)
 
 </div>
 
----
-
-### `> contact --connect`
+<br/>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/lorraine-santana)
-[![Gmail](https://img.shields.io/badge/Gmail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:lorrainesantana126@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lorraine-Santana)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF0080,40:2a0018,100:0d0d0d&height=120&section=footer" width="100%"/>
 
 *"Without data, you're just another person with an opinion."* — W. Edwards Deming
 
