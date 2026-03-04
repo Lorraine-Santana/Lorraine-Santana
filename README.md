@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF0080&center=true&vCenter=true&width=700&lines=print('Hello%2C+World!');Connecting+numbers+to+strategy.;Economics+%40+UFJF;Data+Analysis+%7C+FP%26A+%7C+Financial+Modeling;Business+Intelligence+%7C+Data+Visualization.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=20&pause=1200&color=FF0080&center=true&vCenter=true&width=700&lines=print('Hello%2C+World!');Connecting+numbers+to+strategy.;Economics+%40+UFJF;Data+Analysis+%7C+FP%26A+%7C+Financial+Modeling;Business+Intelligence+%7C+Data+Visualization.)](https://git.io/typing-svg)
 
 </div>
 
