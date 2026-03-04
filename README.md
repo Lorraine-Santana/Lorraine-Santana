@@ -48,8 +48,18 @@ lorraine = {
 
 <div align="center">
 
-<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lorraine-Santana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9"/>
-<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorraine-Santana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api?username=Lorraine-Santana&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9&cache_seconds=1800"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lorraine-Santana&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&cache_seconds=1800"/>
+
+</div>
+
+---
+
+### `$ trophy --showcase`
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Lorraine-Santana&theme=darkhub&no-frame=true&column=6&margin-w=10&margin-h=10"/>
 
 </div>
 
@@ -59,7 +69,7 @@ lorraine = {
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Lorraine-Santana&theme=github-dark-blue&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Lorraine-Santana&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF"/>
 
 </div>
 
