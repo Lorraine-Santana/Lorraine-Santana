@@ -1,14 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0d0d0d,60:2a0018,100:FF0080&height=260&section=header&text=Lorraine%20Santana&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Data%20Analyst%20%7C%20FP%26A%20%7C%20Financial%20Modeling&descAlignY=70&descSize=18&descColor=FFB3D1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:FF0080&height=260&section=header&text=Lorraine%20Santana&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Data%20Analyst%20%7C%20FP%26A%20%7C%20Financial%20Modeling&descAlignY=70&descSize=18&descColor=FFB3D1" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=FF0080&center=true&vCenter=true&width=620&lines=Connecting+numbers+to+strategy.;Economics+%40+UFJF;Data+Analysis+%7C+FP%26A+%7C+Financial+Modeling;Business+Intelligence+%7C+Data+Visualization.)](https://git.io/typing-svg)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Lorraine-Santana&style=flat-square&color=FF0080&label=PROFILE+VIEWS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=FF0080&center=true&vCenter=true&width=700&lines=print('Hello%2C+World!');Connecting+numbers+to+strategy.;Economics+%40+UFJF;Data+Analysis+%7C+FP%26A+%7C+Financial+Modeling;Business+Intelligence+%7C+Data+Visualization.)](https://git.io/typing-svg)
 
 </div>
 
