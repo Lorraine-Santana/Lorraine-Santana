@@ -69,8 +69,8 @@ lorraine = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://linkedin.com/in/lorraine-santana)
-[![Gmail](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:seuemail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/lorraine-santana)
+[![Gmail](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=EA4335)](mailto:lorrainesantana126@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Lorraine-Santana)
 
 </div>
